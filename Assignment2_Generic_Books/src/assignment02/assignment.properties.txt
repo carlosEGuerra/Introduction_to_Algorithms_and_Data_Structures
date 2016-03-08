@@ -1,0 +1,5 @@
+name=Carlos Guerra
+uid=u0847821
+partner_name=Atul Sharma
+partner_uid=u1001513
+submitted=true
